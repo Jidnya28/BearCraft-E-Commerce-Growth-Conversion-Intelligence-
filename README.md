@@ -230,8 +230,12 @@ Metrics calculated:
 * Data storytelling & executive insights
 
 ---
-##Dashboard
+## Dashboard
+
+
 <img width="777" height="404" alt="image" src="https://github.com/user-attachments/assets/eed758d0-c3ea-46e7-8ae6-984ca566a322" />
+
+<img width="647" height="371" alt="image" src="https://github.com/user-attachments/assets/1aaeda49-a046-4611-8bd1-5970666b8161" />
 
 
 
