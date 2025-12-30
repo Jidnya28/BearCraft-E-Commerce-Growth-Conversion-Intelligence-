@@ -240,3 +240,5 @@ Metrics calculated:
 
 <img width="670" height="409" alt="image" src="https://github.com/user-attachments/assets/a8861496-e62d-4770-b6f5-2c72cc0853a7" />
 
+<img width="639" height="398" alt="image" src="https://github.com/user-attachments/assets/e39081d8-dbf3-451e-b3f4-36abe6b53e01" />
+
